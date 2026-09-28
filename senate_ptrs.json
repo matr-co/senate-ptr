@@ -1,6 +1,368 @@
 {
-"updated": "2026-09-28T13:49:11+00:00",
+"updated": "2026-09-28T20:32:36+00:00",
 "reports": [
+{
+"id": "0a93a20c-2a0f-4979-80ca-cc2f61297527",
+"name": "James Conley Justice, II",
+"first": "James Conley",
+"last": "Justice, II",
+"filed": "2026-09-28",
+"url": "https://efdsearch.senate.gov/search/view/ptr/0a93a20c-2a0f-4979-80ca-cc2f61297527/",
+"title": "Periodic Transaction Report for 09/28/2026",
+"trades": [
+{
+"date": "2026-08-14",
+"owner": "Self",
+"ticker": null,
+"asset": "Greenbrier Hotel Corporation and Affiliates\n                                        \n                                   ",
+"asset_type": "Non-Public Stock",
+"type": "Sale (Partial)",
+"lo": 50000000.0,
+"hi": 50000000.0
+}
+]
+},
+{
+"id": "9e2ff733-aeac-4ce8-872c-3d6b7913da88",
+"name": "Richard Blumenthal",
+"first": "Richard",
+"last": "Blumenthal",
+"filed": "2026-09-28",
+"url": "https://efdsearch.senate.gov/search/view/ptr/9e2ff733-aeac-4ce8-872c-3d6b7913da88/",
+"title": "Periodic Transaction Report for 09/28/2026",
+"trades": [
+{
+"date": "2026-09-11",
+"owner": "Spouse",
+"ticker": null,
+"asset": "Not Fade Away LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-09-11",
+"owner": "Spouse",
+"ticker": null,
+"asset": "Not Fade Away LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-09-11",
+"owner": "Spouse",
+"ticker": null,
+"asset": "Not Fade Away LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 50001.0,
+"hi": 100000.0
+},
+{
+"date": "2026-09-11",
+"owner": "Spouse",
+"ticker": null,
+"asset": "Not Fade Away LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 50001.0,
+"hi": 100000.0
+},
+{
+"date": "2026-09-11",
+"owner": "Spouse",
+"ticker": null,
+"asset": "Not Fade Away LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-09-11",
+"owner": "Spouse",
+"ticker": null,
+"asset": "Not Fade Away LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-09-11",
+"owner": "Spouse",
+"ticker": null,
+"asset": "Not Fade Away LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-09-11",
+"owner": "Spouse",
+"ticker": null,
+"asset": "Not Fade Away LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-08-27",
+"owner": "Spouse",
+"ticker": null,
+"asset": "Days Between LLC\n                                        \n                                        \n                     ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-08-27",
+"owner": "Spouse",
+"ticker": null,
+"asset": "Days Between LLC\n                                        \n                                        \n                     ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-08-27",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-08-27",
+"owner": "Spouse",
+"ticker": null,
+"asset": "Days Between LLC\n                                        \n                                        \n                     ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 100001.0,
+"hi": 250000.0
+},
+{
+"date": "2026-08-27",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-08-24",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-08-24",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-08-24",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-08-24",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-08-24",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-08-24",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-08-24",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-08-24",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-08-24",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 50001.0,
+"hi": 100000.0
+},
+{
+"date": "2026-08-24",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-08-24",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-08-19",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-08-19",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Sale (Partial)",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-08-19",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Sale (Partial)",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-08-19",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Sale (Partial)",
+"lo": 50001.0,
+"hi": 100000.0
+},
+{
+"date": "2026-08-19",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Sale (Partial)",
+"lo": 50001.0,
+"hi": 100000.0
+},
+{
+"date": "2026-08-19",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-08-19",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Sale (Partial)",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-08-19",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Sale (Partial)",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-08-19",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Sale (Partial)",
+"lo": 100001.0,
+"hi": 250000.0
+}
+]
+},
 {
 "id": "028aef33-dc0d-44a1-992f-aa35ee42685b",
 "name": "A. Mitchell McConnell, Jr.",
