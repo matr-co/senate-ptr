@@ -1,6 +1,67 @@
 {
-"updated": "2026-09-30T22:13:01+00:00",
+"updated": "2026-10-01T22:39:11+00:00",
 "reports": [
+{
+"id": "6bf3b6f7-9e1b-499a-bd5a-990292ce2e72",
+"name": "Sheldon Whitehouse",
+"first": "Sheldon",
+"last": "Whitehouse",
+"filed": "2026-10-01",
+"url": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
+"title": "Periodic Transaction Report for 10/01/2026",
+"trades": [
+{
+"date": "2026-09-04",
+"owner": "Spouse",
+"ticker": "JPM",
+"asset": "JP Morgan Chase & Co. Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-09-04",
+"owner": "Spouse",
+"ticker": "ADI",
+"asset": "Analog Devices, Inc. - Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-09-04",
+"owner": "Spouse",
+"ticker": "V",
+"asset": "Visa Inc.",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-09-04",
+"owner": "Self",
+"ticker": "V",
+"asset": "Visa Inc.",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-09-04",
+"owner": "Self",
+"ticker": "JPM",
+"asset": "JP Morgan Chase & Co. Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 15001.0,
+"hi": 50000.0
+}
+]
+},
 {
 "id": "0a93a20c-2a0f-4979-80ca-cc2f61297527",
 "name": "James Conley Justice, II",
