@@ -1,6 +1,37 @@
 {
-"updated": "2026-10-07T05:55:01+00:00",
+"updated": "2026-10-08T00:11:15+00:00",
 "reports": [
+{
+"id": "0541be4f-4f96-4d84-8d6f-d349f218bb2a",
+"name": "John Fetterman",
+"first": "John",
+"last": "Fetterman",
+"filed": "2026-10-07",
+"url": "https://efdsearch.senate.gov/search/view/ptr/0541be4f-4f96-4d84-8d6f-d349f218bb2a/",
+"title": "Periodic Transaction Report for 10/07/2026",
+"trades": [
+{
+"date": "2026-09-16",
+"owner": "Child",
+"ticker": null,
+"asset": "DELL INTL LLC/EMC CORP\n                                        \n                                        \n               ",
+"asset_type": "Corporate Bond",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-09-15",
+"owner": "Child",
+"ticker": null,
+"asset": "DELL INTL LLC/EMC CORP\n                                        \n                                        \n               ",
+"asset_type": "Corporate Bond",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+}
+]
+},
 {
 "id": "6bf3b6f7-9e1b-499a-bd5a-990292ce2e72",
 "name": "Sheldon Whitehouse",
