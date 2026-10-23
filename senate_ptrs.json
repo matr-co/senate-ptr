@@ -1,6 +1,27 @@
 {
-"updated": "2026-10-22T21:32:47+00:00",
+"updated": "2026-10-23T07:27:43+00:00",
 "reports": [
+{
+"id": "6aa5ccb2-ff27-491a-9314-778b9ab37964",
+"name": "Alan Armstrong",
+"first": "Alan",
+"last": "Armstrong",
+"filed": "2026-10-22",
+"url": "https://efdsearch.senate.gov/search/view/ptr/6aa5ccb2-ff27-491a-9314-778b9ab37964/",
+"title": "Periodic Transaction Report for 10/23/2026",
+"trades": [
+{
+"date": "2026-09-08",
+"owner": "Joint",
+"ticker": "WMB",
+"asset": "Williams Companies, Inc. (The) Common Stock\n                                        \n                                   ",
+"asset_type": "Stock Option",
+"type": "Sale (Full)",
+"lo": 250001.0,
+"hi": 500000.0
+}
+]
+},
 {
 "id": "7dfdae57-9401-4bf1-9059-85d1e5ee4a84",
 "name": "John Boozman",
