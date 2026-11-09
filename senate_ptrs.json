@@ -1,6 +1,620 @@
 {
-"updated": "2026-10-23T07:27:43+00:00",
+"updated": "2026-11-09T20:42:09+00:00",
 "reports": [
+{
+"id": "a89c0c6b-4c12-4955-98f9-3a54ca52d8a3",
+"name": "Shelley M Capito",
+"first": "Shelley M",
+"last": "Capito",
+"filed": "2026-11-04",
+"url": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/",
+"title": "Periodic Transaction Report for 11/04/2026",
+"trades": [
+{
+"date": "2026-10-21",
+"owner": "Spouse",
+"ticker": "ZTS",
+"asset": "Zoetis Inc. Class A Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Full)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-21",
+"owner": "Spouse",
+"ticker": "MSFT",
+"asset": "Microsoft Corporation - Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-21",
+"owner": "Spouse",
+"ticker": "META",
+"asset": "Meta Platforms, Inc. - Class A Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-21",
+"owner": "Spouse",
+"ticker": "AAPL",
+"asset": "Apple Inc. - Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+}
+]
+},
+{
+"id": "02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c",
+"name": "Sheldon Whitehouse",
+"first": "Sheldon",
+"last": "Whitehouse",
+"filed": "2026-11-02",
+"url": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/",
+"title": "Periodic Transaction Report for 11/02/2026",
+"trades": [
+{
+"date": "2026-10-15",
+"owner": "Spouse",
+"ticker": "MSFT",
+"asset": "Microsoft Corporation - Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-15",
+"owner": "Spouse",
+"ticker": "AMGN",
+"asset": "Amgen Inc. - Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Full)",
+"lo": 15001.0,
+"hi": 50000.0
+}
+]
+},
+{
+"id": "3ab689df-21ae-44c5-85ac-1f5e4bc8464d",
+"name": "David H McCormick",
+"first": "David H",
+"last": "McCormick",
+"filed": "2026-10-29",
+"url": "https://efdsearch.senate.gov/search/view/ptr/3ab689df-21ae-44c5-85ac-1f5e4bc8464d/",
+"title": "Periodic Transaction Report for 10/29/2026",
+"trades": [
+{
+"date": "2026-10-19",
+"owner": "Self",
+"ticker": null,
+"asset": "FOX CHAPEL PA AREA SCH DIST GO BDS SER. 2017\n                                        \n                                  ",
+"asset_type": "Municipal Security",
+"type": "Sale (Full)",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-10-19",
+"owner": "Self",
+"ticker": null,
+"asset": "PHILADELPHIA PA AUTH FOR INDL DEV CITY\n                                        \n                                        ",
+"asset_type": "Municipal Security",
+"type": "Sale (Full)",
+"lo": 50001.0,
+"hi": 100000.0
+},
+{
+"date": "2026-10-19",
+"owner": "Self",
+"ticker": null,
+"asset": "PITTSBURGH & ALLEGHENY CNTY PA SPORTS & EXHIB AUTH REV\n                                        \n                        ",
+"asset_type": "Municipal Security",
+"type": "Sale (Full)",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-10-13",
+"owner": "Self",
+"ticker": null,
+"asset": "DAUPHIN CNTY PA GO NTS SER. 2024B\n                                        \n                                        \n    ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 500001.0,
+"hi": 1000000.0
+},
+{
+"date": "2026-10-13",
+"owner": "Self",
+"ticker": null,
+"asset": "VERMONT EDL & HEALTH BLDGS FING AGY REV\n                                        \n                                       ",
+"asset_type": "Municipal Security",
+"type": "Sale (Full)",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-10-08",
+"owner": "Self",
+"ticker": null,
+"asset": "ST JOSEPH CNTY INDIANA HOSP AUTH HOSP REV HOSP REV BDS BEACON HEALTH SYSTEM SER.2013C\n                                  ",
+"asset_type": "Municipal Security",
+"type": "Sale (Full)",
+"lo": 100001.0,
+"hi": 250000.0
+},
+{
+"date": "2026-10-08",
+"owner": "Self",
+"ticker": null,
+"asset": "DARIEN CONN GO BDS SER. 2020\n                                        \n                                        \n         ",
+"asset_type": "Municipal Security",
+"type": "Sale (Full)",
+"lo": 50001.0,
+"hi": 100000.0
+},
+{
+"date": "2026-10-08",
+"owner": "Self",
+"ticker": null,
+"asset": "ESSEX CONN GO BDS SER. 2017\n                                        \n                                        \n          ",
+"asset_type": "Municipal Security",
+"type": "Sale (Full)",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-10-08",
+"owner": "Self",
+"ticker": null,
+"asset": "HEMPFIELD PA SCH DIST LANCASTER CNTY\n                                        \n                                        \n ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 500001.0,
+"hi": 1000000.0
+},
+{
+"date": "2026-10-08",
+"owner": "Self",
+"ticker": null,
+"asset": "MILFORD CONN GO REF BDS SER. 2021\n                                        \n                                        \n    ",
+"asset_type": "Municipal Security",
+"type": "Sale (Full)",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-10-08",
+"owner": "Self",
+"ticker": null,
+"asset": "NEW YORK ST DORM AUTH ST PERS INCOME\n                                        \n                                        \n ",
+"asset_type": "Municipal Security",
+"type": "Sale (Full)",
+"lo": 100001.0,
+"hi": 250000.0
+},
+{
+"date": "2026-10-01",
+"owner": "Self",
+"ticker": null,
+"asset": "STATE COLLEGE PA AREA SCH DIST GO\n                                        \n                                        \n    ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 500001.0,
+"hi": 1000000.0
+},
+{
+"date": "2026-10-08",
+"owner": "Self",
+"ticker": null,
+"asset": "UNIVERSITY CONN GO BDS SER. 2022\n                                        \n                                        \n     ",
+"asset_type": "Municipal Security",
+"type": "Sale (Full)",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-10-07",
+"owner": "Self",
+"ticker": null,
+"asset": "PENNSYLVANIA ST TPK COMMN TPK REV BDS\n                                        \n                                        \n",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 500001.0,
+"hi": 1000000.0
+},
+{
+"date": "2026-10-20",
+"owner": "Spouse",
+"ticker": null,
+"asset": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+"asset_type": "Stock",
+"type": "Purchase",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-10-14",
+"owner": "Spouse",
+"ticker": null,
+"asset": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+"asset_type": "Stock",
+"type": "Purchase",
+"lo": 100001.0,
+"hi": 250000.0
+},
+{
+"date": "2026-10-07",
+"owner": "Spouse",
+"ticker": null,
+"asset": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+"asset_type": "Stock",
+"type": "Purchase",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-10-06",
+"owner": "Spouse",
+"ticker": null,
+"asset": "UNIV PITTSBURGH OF THE COMWLTH REV\n                                        \n                                        \n   ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 100001.0,
+"hi": 250000.0
+},
+{
+"date": "2026-09-30",
+"owner": "Spouse",
+"ticker": null,
+"asset": "POTTSVILLE PA HOSP AUTH HOSP REV\n                                        \n                                        \n     ",
+"asset_type": "Municipal Security",
+"type": "Sale (Full)",
+"lo": 100001.0,
+"hi": 250000.0
+}
+]
+},
+{
+"id": "e67780bf-56e4-46f0-a81e-574a701dd539",
+"name": "Richard Blumenthal",
+"first": "Richard",
+"last": "Blumenthal",
+"filed": "2026-10-26",
+"url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/",
+"title": "Periodic Transaction Report for 10/26/2026",
+"trades": [
+{
+"date": "2026-10-07",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-09-21",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-07",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-07",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-09-22",
+"owner": "Spouse",
+"ticker": "STLN",
+"asset": "Starling Oncology, Inc. - Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-09-18",
+"owner": "Spouse",
+"ticker": "STLN",
+"asset": "Starling Oncology, Inc. - Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-07",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-09-22",
+"owner": "Spouse",
+"ticker": "STLN",
+"asset": "Starling Oncology, Inc. - Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-09-21",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-09-18",
+"owner": "Spouse",
+"ticker": "STLN",
+"asset": "Starling Oncology, Inc. - Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-10-07",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-09-23",
+"owner": "Spouse",
+"ticker": "STLN",
+"asset": "Starling Oncology, Inc. - Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-09-22",
+"owner": "Spouse",
+"ticker": "STLN",
+"asset": "Starling Oncology, Inc. - Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-09-21",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-09-18",
+"owner": "Spouse",
+"ticker": "STLN",
+"asset": "Starling Oncology, Inc. - Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-10-07",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 50001.0,
+"hi": 100000.0
+},
+{
+"date": "2026-09-22",
+"owner": "Spouse",
+"ticker": "STLN",
+"asset": "Starling Oncology, Inc. - Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-09-21",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-09-18",
+"owner": "Spouse",
+"ticker": "STLN",
+"asset": "Starling Oncology, Inc. - Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-07",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 100001.0,
+"hi": 250000.0
+},
+{
+"date": "2026-09-24",
+"owner": "Spouse",
+"ticker": null,
+"asset": "ZdP Investments Fund I, LP\n                                        \n                                        \n           ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-09-23",
+"owner": "Spouse",
+"ticker": "STLN",
+"asset": "Starling Oncology, Inc. - Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-09-22",
+"owner": "Spouse",
+"ticker": "STLN",
+"asset": "Starling Oncology, Inc. - Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-09-21",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-09-21",
+"owner": "Spouse",
+"ticker": null,
+"asset": "GCP Captivate Secondary LP\n                                        \n                                        \n           ",
+"asset_type": "Other",
+"type": "Sale (Full)",
+"lo": 500001.0,
+"hi": 1000000.0
+},
+{
+"date": "2026-09-18",
+"owner": "Spouse",
+"ticker": "STLN",
+"asset": "Starling Oncology, Inc. - Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-09-17",
+"owner": "Spouse",
+"ticker": null,
+"asset": "A-IC, a series of A-ST Opportunity Funds LLC\n                                        \n                                  ",
+"asset_type": "Other",
+"type": "Sale (Full)",
+"lo": 50001.0,
+"hi": 100000.0
+},
+{
+"date": "2026-09-21",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-07",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-09-23",
+"owner": "Spouse",
+"ticker": null,
+"asset": "ZdP Investments Fund I, LP\n                                        \n                                        \n           ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-07",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-09-23",
+"owner": "Spouse",
+"ticker": null,
+"asset": "ZdP Investments Fund I, LP\n                                        \n                                        \n           ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+}
+]
+},
 {
 "id": "6aa5ccb2-ff27-491a-9314-778b9ab37964",
 "name": "Alan Armstrong",
