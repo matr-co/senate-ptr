@@ -1,6 +1,68 @@
 {
-"updated": "2026-11-16T20:25:23+00:00",
+"updated": "2026-11-17T23:29:20+00:00",
 "reports": [
+{
+"id": "21941188-c04d-4713-8e6f-d954918e93fd",
+"name": "John Boozman",
+"first": "John",
+"last": "Boozman",
+"filed": "2026-11-17",
+"url": "https://efdsearch.senate.gov/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/",
+"title": "Periodic Transaction Report for 11/17/2026",
+"trades": [
+{
+"date": "2026-10-21",
+"owner": "Joint",
+"ticker": "CMBS",
+"asset": "iShares CMBS ETF",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-21",
+"owner": "Joint",
+"ticker": "TLH",
+"asset": "iShares 10-20 Year Treasury Bond ETF",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+}
+]
+},
+{
+"id": "06b7b716-bdc0-4c47-a4aa-96624e1e702c",
+"name": "John Boozman",
+"first": "John",
+"last": "Boozman",
+"filed": "2026-11-17",
+"url": "https://efdsearch.senate.gov/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/",
+"title": "Periodic Transaction Report for 11/17/2026",
+"trades": [
+{
+"date": "2026-10-21",
+"owner": "Joint",
+"ticker": "HYBB",
+"asset": "iShares BB Rated Corporate Bond ETF",
+"asset_type": "Stock",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-21",
+"owner": "Joint",
+"ticker": "MBB",
+"asset": "iShares MBS ETF",
+"asset_type": "Stock",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+}
+]
+},
 {
 "id": "a89c0c6b-4c12-4955-98f9-3a54ca52d8a3",
 "name": "Shelley M Capito",
