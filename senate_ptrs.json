@@ -1,6 +1,268 @@
 {
-"updated": "2026-11-20T01:45:49+00:00",
+"updated": "2026-11-21T01:28:59+00:00",
 "reports": [
+{
+"id": "8f97b859-75e2-4739-8392-d375744aea97",
+"name": "Alan Armstrong",
+"first": "Alan",
+"last": "Armstrong",
+"filed": "2026-11-20",
+"url": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+"title": "Periodic Transaction Report for 11/20/2026",
+"trades": [
+{
+"date": "2026-10-30",
+"owner": "Joint",
+"ticker": null,
+"asset": "Alabama Toll Rd Brdg & Tunl Auth Revenue Bond\n                                        \n                                 ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-29",
+"owner": "Joint",
+"ticker": null,
+"asset": "Illinois St General Obligation Bond\n                                        \n                                        \n  ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-28",
+"owner": "Joint",
+"ticker": null,
+"asset": "Illinois St General Obligation Bond\n                                        \n                                        \n  ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-26",
+"owner": "Joint",
+"ticker": null,
+"asset": "Indiana St Fin Auth Revenue Bond\n                                        \n                                        \n     ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-10-22",
+"owner": "Joint",
+"ticker": null,
+"asset": "Idaho St Tax Revenue Bond\n                                        \n                                        \n            ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 500001.0,
+"hi": 1000000.0
+},
+{
+"date": "2026-10-21",
+"owner": "Joint",
+"ticker": null,
+"asset": "Barbers Hill TX Independent Sch Revenue Bond\n                                        \n                                  ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 100001.0,
+"hi": 250000.0
+},
+{
+"date": "2026-10-16",
+"owner": "Joint",
+"ticker": null,
+"asset": "Texas Transn Commn General Obligation Mobility Bond\n                                        \n                           ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 500001.0,
+"hi": 1000000.0
+},
+{
+"date": "2026-10-15",
+"owner": "Joint",
+"ticker": null,
+"asset": "New Jersey Economic Dev Auth Revenue Bond\n                                        \n                                     ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-10-14",
+"owner": "Joint",
+"ticker": null,
+"asset": "Harris Cnty Tex Cultural Ed Facs Revenue Bond\n                                        \n                                 ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-10-14",
+"owner": "Joint",
+"ticker": null,
+"asset": "Texas Wtr Dev Brd Revenue Bond\n                                        \n                                        \n       ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-10-14",
+"owner": "Joint",
+"ticker": null,
+"asset": "Colorado Health Facs Auth Revenue Bond\n                                        \n                                        ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 500001.0,
+"hi": 1000000.0
+},
+{
+"date": "2026-10-13",
+"owner": "Joint",
+"ticker": null,
+"asset": "Illinois St General Obligation Bond\n                                        \n                                        \n  ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-10-08",
+"owner": "Joint",
+"ticker": null,
+"asset": "Ohio St Wtr Dev Auth Revenue Bond\n                                        \n                                        \n    ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 500001.0,
+"hi": 1000000.0
+},
+{
+"date": "2026-10-07",
+"owner": "Joint",
+"ticker": null,
+"asset": "Connecticut St General Obligation Bond\n                                        \n                                        ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 100001.0,
+"hi": 250000.0
+},
+{
+"date": "2026-10-07",
+"owner": "Joint",
+"ticker": null,
+"asset": "Connecticut St General Obligation Bond\n                                        \n                                        ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-10-07",
+"owner": "Joint",
+"ticker": null,
+"asset": "New Jersey St Transntr Fd Auth Revenue Bond\n                                        \n                                   ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-10-07",
+"owner": "Joint",
+"ticker": null,
+"asset": "Philadelphia PA General Obligation Bond\n                                        \n                                       ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 100001.0,
+"hi": 250000.0
+},
+{
+"date": "2026-10-07",
+"owner": "Joint",
+"ticker": null,
+"asset": "Philadelphia PA General Obligation Bond\n                                        \n                                       ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 500001.0,
+"hi": 1000000.0
+},
+{
+"date": "2026-10-06",
+"owner": "Joint",
+"ticker": null,
+"asset": "WBD",
+"asset_type": "Stock",
+"type": "Sale (Full)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-06",
+"owner": "Joint",
+"ticker": null,
+"asset": "Missouri St Hwys & Trans Commn St Rd Revenue Bond\n                                        \n                             ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 100001.0,
+"hi": 250000.0
+},
+{
+"date": "2026-10-06",
+"owner": "Joint",
+"ticker": null,
+"asset": "North Tex Twy Auth Revenue Bond\n                                        \n                                        \n      ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 100001.0,
+"hi": 250000.0
+},
+{
+"date": "2026-10-06",
+"owner": "Joint",
+"ticker": null,
+"asset": "Huntsville Ala Health Care Auth Revenue Bond\n                                        \n                                  ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-10-06",
+"owner": "Joint",
+"ticker": null,
+"asset": "Grand Prairie Tex Indpt Sch Dist Revenue Bond\n                                        \n                                 ",
+"asset_type": "Municipal Security",
+"type": "Purchase",
+"lo": 500001.0,
+"hi": 1000000.0
+}
+]
+},
+{
+"id": "f0f7eba0-ca09-4b80-a97b-64b6dafb835e",
+"name": "Rafael E Cruz",
+"first": "Rafael E",
+"last": "Cruz",
+"filed": "2026-11-20",
+"url": "https://efdsearch.senate.gov/search/view/ptr/f0f7eba0-ca09-4b80-a97b-64b6dafb835e/",
+"title": "Periodic Transaction Report for 11/20/2026",
+"trades": [
+{
+"date": "2026-11-11",
+"owner": "Spouse",
+"ticker": "GS",
+"asset": "Goldman Sachs Group, Inc. (The) Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 250001.0,
+"hi": 500000.0
+}
+]
+},
 {
 "id": "21941188-c04d-4713-8e6f-d954918e93fd",
 "name": "John Boozman",
