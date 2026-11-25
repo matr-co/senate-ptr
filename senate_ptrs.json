@@ -1,6 +1,347 @@
 {
-"updated": "2026-11-24T02:53:22+00:00",
+"updated": "2026-11-25T00:40:10+00:00",
 "reports": [
+{
+"id": "9d3510cc-b11b-4777-a8a8-f0a58e886290",
+"name": "Richard Blumenthal",
+"first": "Richard",
+"last": "Blumenthal",
+"filed": "2026-11-24",
+"url": "https://efdsearch.senate.gov/search/view/ptr/9d3510cc-b11b-4777-a8a8-f0a58e886290/",
+"title": "Periodic Transaction Report for 11/24/2026",
+"trades": [
+{
+"date": "2026-11-06",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-11-06",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-11-06",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-11-06",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-11-04",
+"owner": "Spouse",
+"ticker": "STLN",
+"asset": "Starling Oncology, Inc. - Common Stock",
+"asset_type": "Stock",
+"type": "Sale (Partial)",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-28",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-28",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-28",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-28",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Built to Last LLC\n                                        \n                                        \n                 ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-26",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 50001.0,
+"hi": 100000.0
+},
+{
+"date": "2026-10-26",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-10-26",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 50001.0,
+"hi": 100000.0
+},
+{
+"date": "2026-10-26",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-10-26",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-10-26",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-10-26",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 250001.0,
+"hi": 500000.0
+},
+{
+"date": "2026-10-26",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 500001.0,
+"hi": 1000000.0
+},
+{
+"date": "2026-10-23",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-10-23",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-10-23",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-10-23",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-23",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-23",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-10-23",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 100001.0,
+"hi": 250000.0
+},
+{
+"date": "2026-10-23",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 100001.0,
+"hi": 250000.0
+},
+{
+"date": "2026-10-15",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-10-15",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-10-15",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-10-15",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-15",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 1001.0,
+"hi": 15000.0
+},
+{
+"date": "2026-10-15",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 15001.0,
+"hi": 50000.0
+},
+{
+"date": "2026-10-15",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 100001.0,
+"hi": 250000.0
+},
+{
+"date": "2026-10-15",
+"owner": "Spouse",
+"ticker": null,
+"asset": "MH Four Winds LLC\n                                        \n                                        \n                    ",
+"asset_type": "Other",
+"type": "Purchase",
+"lo": 250001.0,
+"hi": 500000.0
+}
+]
+},
 {
 "id": "8f97b859-75e2-4739-8392-d375744aea97",
 "name": "Alan Armstrong",
